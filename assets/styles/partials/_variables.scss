@@ -1,0 +1,21 @@
+/* ==========================================================================
+   Variables
+   ========================================================================== */
+
+// Structure
+$pageWidth: 1000px;
+
+// Fluidable config
+$columns:       12;
+$gutterWidth:   4px;
+$columnWidth:   100%/$columns;
+$screenTablet:  768px;
+$screenDesktop: 992px;
+$screenLarge:   1200px;
+
+// Text Selection
+$selectionColor: orange;
+
+// Colors
+$red: red;
+$blue: blue;

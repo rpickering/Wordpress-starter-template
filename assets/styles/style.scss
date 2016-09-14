@@ -1,0 +1,26 @@
+/*!
+Theme Name: WP Starter Theme
+Description: Based on Matt Banks' starter theme
+*/
+
+// Presets
+@import "partials/variables";
+@import "partials/preset/mixins";
+@import "partials/preset/normalize";
+@import "partials/preset/h5bp-global";
+@import "partials/preset/fluidable";
+
+// General
+@import "partials/general";
+
+// Components
+@import "partials/header";
+@import "partials/footer";
+@import "partials/nav";
+
+// Page Templates
+@import "partials/page-home";
+@import "partials/page-post";
+
+// Print
+@import "partials/preset/print";
